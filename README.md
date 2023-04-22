@@ -1,6 +1,6 @@
 ## Hello there 👋 I am Burak
 
-I study business economics at Goethe University in Franfurt.
+I study business informatics at Goethe University in Franfurt.
 
 During lockdown I started learning **Web Development** and participated at the semester programm at [TechAcademy](https://www.tech-academy.io/).
 
